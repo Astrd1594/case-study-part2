@@ -1,0 +1,34 @@
+body{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-weight: lighter !important;
+}
+#section1{
+    width: 50%;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 15px black;
+}
+#p5jsimagetop{
+    margin-left: 20px;
+}
+#heading{
+    font-size: 44px !important;
+}
+.d{
+    width: 30% !important;
+    margin-left: 50px;
+}
+.whitebg{
+    border-radius: 15px;
+    box-shadow: 0px 5px 15px black;
+    width: 20% !important;
+    padding: 10px;
+    height: 600px !important;
+}
+canvas{
+    position: absolute;
+    margin-top: 475px;
+}
